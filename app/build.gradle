@@ -1,0 +1,6 @@
+apply from:'https://raw.githubusercontent.com/lsjwzh/widget.gradle/master/app-androidx.gradle'
+
+dependencies {
+    implementation project(":widget.PowerfulScrollView")
+}
+
